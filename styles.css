@@ -1,0 +1,33 @@
+body{
+    background-color:#5454b2
+}
+.mainbody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color:  #FFA500;
+}
+p{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#inputCelsius{
+    padding: 10px 18px 10px 18px;
+    border-radius: 5px;
+    border: 2px solid  #FFFFFF ;
+}    
+button{
+    margin-top: 5px;
+    padding: 7px 75px 7px 75px;
+    border-radius: 10px;
+    background-color: #FFA500;
+    color:#FFFFFF;
+    border: 1px solid #FFA500;
+    margin-left: 2px;
+}
